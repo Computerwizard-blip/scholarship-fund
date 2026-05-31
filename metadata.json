@@ -1,0 +1,6 @@
+{
+  "name": "Abroad Scholarship",
+  "description": "Free, secure platform connecting students with verified scholarship, grant, and bursary opportunities. Get matched, apply online, and track your funding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
